@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1001,
+        "username": "Zobia",
+        "email": "zobia2@gmail.com",
+        "course": "ACCP-AI",
+        "branch": "Gulshan-2"
+    },
+
+    {
+        "id": 1002,
+        "username": "Farhan",
+        "email": "farhankhan@gmail.com",
+        "course": "ACCP-AI",
+        "branch": "Gulshan-2"
+    },
+
+    {
+        "id": 1003,
+        "username": "Haris",
+        "email": "hariss@gmail.com",
+        "course": "ACCP-AI",
+        "branch": "Gulshan-2"
+    },
+
+    {
+        "id": 1004,
+        "username": "Laiba",
+        "email": "laiba44@gmail.com",
+        "course": "ACCP-AI",
+        "branch": "Gulshan-2"
+    },
+
+    {
+        "id": 1005,
+        "username": "Safia",
+        "email": "safia@gmail.com",
+        "course": "ACCP-AI",
+        "branch": "Gulshan-2"
+    }
+]
